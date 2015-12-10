@@ -11,9 +11,12 @@ import android.view.SurfaceView;
 
 import java.util.Calendar;
 
+/**
+ * @author wyz
+ */
 
 public class TimerActivity extends AppCompatActivity implements SurfaceHolder.Callback {
-
+    //1503
     private SurfaceView surface;
     private SurfaceHolder holder;
     private int width;
